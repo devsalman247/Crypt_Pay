@@ -5,7 +5,7 @@ const { VITE_WYRE_API_KEY, VITE_WYRE_SECRET_KEY, VITE_TRANSAK_API_KEY, VITE_TRAN
 function App() {
 	const buy = () => {
 		let transak = new transakSDK({
-			apiKey: VITE_TRANSAK_API_KEY, // Your API Key
+			apiKey: "71d9cc91-826d-41b6-b6ba-7d8962a9c3e0", // Your API Key
 			environment: "STAGING", // STAGING/PRODUCTION
 			widgetHeight: "525px",
 			widgetWidth: "500px",
