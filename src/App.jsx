@@ -23,7 +23,7 @@ function App() {
 			widgetHeight: "660px",
 			widgetWidth: "500px",
 			// Examples of some of the customization parameters you can pass
-			defaultCryptoCurrency: "BNB", // Example 'ETH'
+			defaultCryptoCurrency: "ETH", // Example 'ETH'
 			walletAddress: wallet_address, // Your customer's wallet address
 			// themeColor: "[COLOR_HEX]", // App theme color
 			// fiatCurrency: "GBP", // If you want to limit fiat selection eg 'GBP'
